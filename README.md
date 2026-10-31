@@ -12,7 +12,7 @@
 
   <br>
 
-  <p>Discord: <strong>cool.axez</strong></p>
+  <p>Discord: <strong>cool.exp</strong></p>
 
   <h3>Languages</h3>
 
